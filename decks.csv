@@ -1,0 +1,212 @@
+,1,2,3,4,5,6,7,8,9,10,11,12,Spell 1,Spell 2
+1,Swordsman,Archers,Undead Horde,Shield Bearer,Reaper,Treant,,,,,,,Meteor,Spell_Rage
+1,Swordsman,Archers,Undead Horde,Shield Bearer,Reaper,Primal Spirit,,,,,,,Meteor,Spell_Rage
+1,Swordsman,Archers,Undead Horde,Shield Bearer,Reaper,Charger,,,,,,,Meteor,Spell_Rage
+1,Swordsman,Archers,Undead Horde,Shield Bearer,Reaper,Treant,,,,,,,Meteor,Spell_Rage
+1,Swordsman,Archers,Undead Horde,Shield Bearer,Brute,Primal Spirit,,,,,,,Meteor,Spell_Rage
+1,Swordsman,Archers,Undead Horde,Shield Bearer,Brute,Charger,,,,,,,Meteor,Spell_Rage
+1,Swordsman,Archers,Undead Horde,Shield Bearer,Brute,Treant,,,,,,,Meteor,Spell_Rage
+1,Swordsman,Archers,Undead Horde,Reaper,Fire Imp,Primal Spirit,,,,,,,Meteor,Spell_Rage
+1,Swordsman,Archers,Undead Horde,Reaper,Fire Imp,Treant,,,,,,,Meteor,Spell_Rage
+1,Swordsman,Archers,Undead Horde,Reaper,Fire Imp,Charger,,,,,,,Meteor,Spell_Rage
+1,Swordsman,Archers,Undead Horde,Reaper,Brute,Primal Spirit,,,,,,,Meteor,Spell_Rage
+1,Swordsman,Archers,Undead Horde,Reaper,Brute,Treant,,,,,,,Meteor,Spell_Rage
+1,Swordsman,Archers,Undead Horde,Reaper,Brute,Charger,,,,,,,Meteor,Spell_Rage
+1,Swordsman,Archers,Undead Horde,Alchemist,Brute,Primal Spirit,,,,,,,Meteor,Spell_Rage
+1,Swordsman,Archers,Undead Horde,Alchemist,Brute,Treant,,,,,,,Meteor,Spell_Rage
+1,Swordsman,Archers,Undead Horde,Alchemist,Brute,Charger,,,,,,,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Fire Imp,Fire Imp,Shield Bearer,Shield Bearer,Reaper,Brute,Treant,Treant,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Shield Bearer,Shield Bearer,Alchemist,Alchemist,Valkyrie,Brute,Treant,Treant,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Archers,Shield Bearer,Shield Bearer,Reaper,Reaper,Brute,Charger,Charger,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Archers,Archers,Shield Bearer,Shield Bearer,Alchemist,Alchemist,Charger,Charger,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Archers,Archers,Shield Bearer,Shield Bearer,Brute,Wisp Mother,Primal Spirit,Primal Spirit,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Archers,Archers,Shield Bearer,Shield Bearer,Reaper,Reaper,Primal Spirit,Primal Spirit,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Water Elemental,Water Elemental,Archers,Archers,Shield Bearer,Reaper,Reaper,Brute,Treant,Treant,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Water Elemental,Water Elemental,Undead Horde,Undead Horde,Shield Bearer,Reaper,Reaper,Brute,Treant,Treant,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Water Elemental,Water Elemental,Archers,Archers,Shield Bearer,Reaper,Reaper,Brute,Primal Spirit,Primal Spirit,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Water Elemental,Water Elemental,Undead Horde,Undead Horde,Shield Bearer,Alchemist,Reaper,Reaper,Primal Spirit,Primal Spirit,Meteor,Spell_Rage
+1,Water Elemental,Water Elemental,Undead Horde,Undead Horde,Archers,Archers,Reaper,Reaper,Valkyrie,Wisp Mother,Charger,Charger,Meteor,Spell_Rage
+1,Water Elemental,Water Elemental,Undead Horde,Undead Horde,Archers,Archers,Reaper,Reaper,Valkyrie,Brute,Charger,Charger,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Archers,Archers,Valkyrie,Valkyrie,Brute,Brute,Treant,Treant,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Archers,Archers,Reaper,Reaper,Brute,Wisp Mother,Primal Spirit,Primal Spirit,Meteor,Spell_Rage
+1,Fire Imp,Fire Imp,Undead Horde,Undead Horde,Archers,Archers,Shield Bearer,Alchemist,Valkyrie,Valkyrie,Charger,Charger,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Fire Imp,Fire Imp,Archers,Archers,Shield Bearer,Valkyrie,Valkyrie,Brute,Treant,Treant,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Fire Imp,Fire Imp,Shield Bearer,Valkyrie,Brute,Wisp Mother,Primal Spirit,Primal Spirit,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Archers,Archers,Alchemist,Alchemist,Valkyrie,Valkyrie,Charger,Charger,Meteor,Spell_Rage
+1,Water Elemental,Fire Imp,Undead Horde,Undead Horde,Archers,Archers,Reaper,Reaper,Brute,Brute,Charger,Stone Elemental,Meteor,Spell_Rage
+1,Swordsman,Fire Imp,Undead Horde,Undead Horde,Archers,Archers,Goblin Marksman,Goblin Marksman,Reaper,Reaper,Charger,Stone Elemental,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Archers,Shield Bearer,Alchemist,Alchemist,Valkyrie,Valkyrie,Charger,Charger,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Alchemist,Alchemist,Reaper,Reaper,Brute,Brute,Treant,Stone Elemental,Meteor,Spell_Rage
+1,Water Elemental,Water Elemental,Undead Horde,Undead Horde,Shield Bearer,Shield Bearer,Alchemist,Alchemist,Goblin Marksman,Goblin Marksman,Treant,Stone Elemental,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Water Elemental,Fire Imp,Valkyrie,Valkyrie,Brute,Brute,Primal Spirit,Stone Elemental,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Archers,Archers,Shield Bearer,Shield Bearer,Goblin Marksman,Goblin Marksman,Primal Spirit,Stone Elemental,Meteor,Spell_Rage
+1,Water Elemental,Water Elemental,Alchemist,Alchemist,Archers,Archers,Shield Bearer,Brute,Brute,Wisp Mother,Treant,Treant,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Shield Bearer,Shield Bearer,Archers,Archers,Fire Imp,Goblin Marksman,Brute,Brute,Charger,Charger,Meteor,Spell_Rage
+1,Shield Bearer,Shield Bearer,Undead Horde,Undead Horde,Archers,Alchemist,Alchemist,Goblin Marksman,Goblin Marksman,Brute,Primal Spirit,Primal Spirit,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Alchemist,Alchemist,Archers,Shield Bearer,Shield Bearer,Reaper,Reaper,Brute,Treant,Treant,Meteor,Spell_Rage
+1,Water Elemental,Water Elemental,Undead Horde,Alchemist,Archers,Shield Bearer,Shield Bearer,Valkyrie,Valkyrie,Wisp Mother,Charger,Charger,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Fire Imp,Shield Bearer,Shield Bearer,Goblin Marksman,Brute,Brute,Primal Spirit,Primal Spirit,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Shield Bearer,Shield Bearer,Archers,Archers,Alchemist,Goblin Marksman,Brute,Brute,Treant,Treant,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Fire Imp,Shield Bearer,Shield Bearer,Goblin Marksman,Goblin Marksman,Brute,Charger,Charger,Meteor,Spell_Rage
+1,Water Elemental,Water Elemental,Shield Bearer,Shield Bearer,Archers,Archers,Goblin Marksman,Brute,Brute,Wisp Mother,Primal Spirit,Primal Spirit,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Alchemist,Alchemist,Fire Imp,Shield Bearer,Shield Bearer,Valkyrie,Valkyrie,Brute,Treant,Treant,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Alchemist,Alchemist,Valkyrie,Valkyrie,Wisp Mother,Wisp Mother,Charger,Charger,Meteor,Spell_Rage
+1,Alchemist,Alchemist,Undead Horde,Undead Horde,Archers,Archers,Valkyrie,Goblin Marksman,Goblin Marksman,Brute,Primal Spirit,Primal Spirit,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Wisp Mother,Wisp Mother,Water Elemental,Shield Bearer,Shield Bearer,Reaper,Reaper,Valkyrie,Valkyrie,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Wisp Mother,Wisp Mother,Water Elemental,Alchemist,Alchemist,Reaper,Reaper,Valkyrie,Valkyrie,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Wisp Mother,Wisp Mother,Water Elemental,Shield Bearer,Shield Bearer,Valkyrie,Valkyrie,Goblin Marksman,Goblin Marksman,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Archers,Wisp Mother,Shield Bearer,Shield Bearer,Valkyrie,Valkyrie,Brute,Stone Elemental,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Archers,Wisp Mother,Shield Bearer,Shield Bearer,Valkyrie,Valkyrie,Brute,Stone Elemental,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Archers,Wisp Mother,Shield Bearer,Shield Bearer,Goblin Marksman,Goblin Marksman,Brute,Stone Elemental,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Archers,Wisp Mother,Shield Bearer,Shield Bearer,Goblin Marksman,Goblin Marksman,Brute,Stone Elemental,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Archers,Wisp Mother,Goblin Marksman,Goblin Marksman,Reaper,Reaper,Executioner,Stone Elemental,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Archers,Wisp Mother,Goblin Marksman,Goblin Marksman,Reaper,Reaper,Executioner,Stone Elemental,Meteor,Spell_Rage
+1,Rolling Rocks,Water Elemental,Swordsman,Swordsman,Alchemist,Valkyrie,Valkyrie,Goblin Marksman,Goblin Marksman,Brute,Wisp Mother,Stone Elemental,Meteor,Spell_Rage
+1,Rolling Rocks,Water Elemental,Swordsman,Swordsman,Alchemist,Valkyrie,Valkyrie,Goblin Marksman,Goblin Marksman,Brute,Wisp Mother,Stone Elemental,Meteor,Spell_Rage
+1,Rolling Rocks,Water Elemental,Swordsman,Swordsman,Undead Horde,Wisp Mother,Wisp Mother,Goblin Marksman,Valkyrie,Valkyrie,Executioner,Brute,Meteor,Spell_Rage
+1,Rolling Rocks,Water Elemental,Swordsman,Swordsman,Undead Horde,Wisp Mother,Wisp Mother,Goblin Marksman,Valkyrie,Valkyrie,Executioner,Brute,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Archers,Archers,Undead Horde,Wisp Mother,Valkyrie,Goblin Marksman,Goblin Marksman,Wisp Mother,Executioner,Brute,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Archers,Archers,Undead Horde,Wisp Mother,Valkyrie,Goblin Marksman,Goblin Marksman,Wisp Mother,Executioner,Brute,Meteor,Spell_Rage
+1,Rolling Rocks,Undead Horde,Undead Horde,Alchemist,Wisp Mother,Wisp Mother,Goblin Marksman,Goblin Marksman,Executioner,Executioner,Brute,Brute,Meteor,Spell_Rage
+1,Rolling Rocks,Undead Horde,Undead Horde,Alchemist,Wisp Mother,Wisp Mother,Valkyrie,Valkyrie,Executioner,Executioner,Brute,Brute,Meteor,Spell_Rage
+1,Rolling Rocks,Undead Horde,Undead Horde,Alchemist,Wisp Mother,Wisp Mother,Valkyrie,Valkyrie,Executioner,Executioner,Brute,Brute,Meteor,Spell_Rage
+1,Water Elemental,Fire Imp,Undead Horde,Undead Horde,Archers,Archers,Reaper,Reaper,Brute,Brute,Charger,Stone Elemental,Meteor,Spell_Rage
+1,Water Elemental,Fire Imp,Undead Horde,Undead Horde,Archers,Archers,Reaper,Reaper,Brute,Brute,Charger,Stone Elemental,Meteor,Spell_Rage
+1,Swordsman,Fire Imp,Undead Horde,Undead Horde,Archers,Archers,Goblin Marksman,Goblin Marksman,Reaper,Reaper,Charger,Stone Elemental,Meteor,Spell_Rage
+1,Undead Horde,Undead Horde,Swordsman,Swordsman,Archers,Shield Bearer,Shield Bearer,Alchemist,Alchemist,Charger,Charger,Stone Elemental,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Water Elemental,Fire Imp,Archers,Archers,Goblin Marksman,Goblin Marksman,Brute,Brute,Treant,Stone Elemental,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Water Elemental,Fire Imp,Archers,Archers,Goblin Marksman,Goblin Marksman,Brute,Brute,Treant,Stone Elemental,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Alchemist,Alchemist,Valkyrie,Valkyrie,Brute,Brute,Treant,Stone Elemental,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Alchemist,Alchemist,Valkyrie,Valkyrie,Brute,Brute,Treant,Stone Elemental,Meteor,Spell_Rage
+1,Water Elemental,Water Elemental,Undead Horde,Undead Horde,Shield Bearer,Shield Bearer,Alchemist,Goblin Marksman,Goblin Marksman,Treant,Treant,Stone Elemental,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Water Elemental,Fire Imp,Valkyrie,Valkyrie,Brute,Primal Spirit,Primal Spirit,Stone Elemental,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Water Elemental,Fire Imp,Valkyrie,Valkyrie,Brute,Primal Spirit,Primal Spirit,Stone Elemental,Meteor,Spell_Rage
+1,Fire Imp,Fire Imp,Undead Horde,Undead Horde,Archers,Archers,Alchemist,Alchemist,Valkyrie,Valkyrie,Primal Spirit,Stone Elemental,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Archers,Archers,Shield Bearer,Shield Bearer,Goblin Marksman,Goblin Marksman,Primal Spirit,Stone Elemental,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Archers,Archers,Shield Bearer,Shield Bearer,Goblin Marksman,Goblin Marksman,Primal Spirit,Stone Elemental,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Rolling Rocks,Rolling Rocks,Wisp Mother,Water Elemental,Shield Bearer,Shield Bearer,Reaper,Reaper,Brute,Wisp Mother,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Rolling Rocks,Rolling Rocks,Wisp Mother,Water Elemental,Shield Bearer,Shield Bearer,Reaper,Reaper,Brute,Wisp Mother,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Wisp Mother,Water Elemental,Alchemist,Alchemist,Reaper,Reaper,Brute,Wisp Mother,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Wisp Mother,Water Elemental,Alchemist,Alchemist,Reaper,Reaper,Brute,Wisp Mother,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Wisp Mother,Water Elemental,Shield Bearer,Shield Bearer,Valkyrie,Valkyrie,Brute,Wisp Mother,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Wisp Mother,Water Elemental,Shield Bearer,Shield Bearer,Valkyrie,Valkyrie,Brute,Wisp Mother,Meteor,Spell_Rage
+1,Water Elemental,Water Elemental,Alchemist,Alchemist,Archers,Archers,Shield Bearer,Brute,Brute,Wisp Mother,Treant,Treant,Meteor,Spell_Rage
+1,Water Elemental,Water Elemental,Alchemist,Alchemist,Archers,Archers,Shield Bearer,Brute,Brute,Wisp Mother,Treant,Treant,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Shield Bearer,Shield Bearer,Archers,Archers,Fire Imp,Goblin Marksman,Brute,Brute,Charger,Charger,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Shield Bearer,Shield Bearer,Archers,Archers,Fire Imp,Goblin Marksman,Brute,Brute,Charger,Charger,Meteor,Spell_Rage
+1,Shield Bearer,Shield Bearer,Undead Horde,Undead Horde,Archers,Alchemist,Alchemist,Goblin Marksman,Brute,Brute,Primal Spirit,Primal Spirit,Meteor,Spell_Rage
+1,Shield Bearer,Shield Bearer,Undead Horde,Undead Horde,Archers,Alchemist,Alchemist,Goblin Marksman,Brute,Brute,Primal Spirit,Primal Spirit,Meteor,Spell_Rage
+1,Water Elemental,Water Elemental,Alchemist,Alchemist,Archers,Archers,Shield Bearer,Brute,Brute,Wisp Mother,Treant,Treant,Meteor,Spell_Rage
+1,Water Elemental,Water Elemental,Alchemist,Alchemist,Archers,Archers,Shield Bearer,Brute,Brute,Wisp Mother,Treant,Treant,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Shield Bearer,Shield Bearer,Archers,Archers,Fire Imp,Goblin Marksman,Executioner,Brute,Charger,Charger,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Shield Bearer,Shield Bearer,Archers,Archers,Fire Imp,Goblin Marksman,Executioner,Brute,Charger,Charger,Meteor,Spell_Rage
+1,Shield Bearer,Shield Bearer,Undead Horde,Undead Horde,Archers,Alchemist,Alchemist,Goblin Marksman,Executioner,Brute,Primal Spirit,Primal Spirit,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Archers,Archers,Reaper,Executioner,Shadow Huntress,Shadow Huntress,Brute,Brute,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Archers,Archers,Reaper,Reaper,Shadow Huntress,Shadow Huntress,Brute,Brute,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Alchemist,Alchemist,Goblin Marksman,Goblin Marksman,Executioner,Shadow Huntress,Shadow Huntress,Brute,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Water Elemental,Water Elemental,Archers,Archers,Shield Bearer,Shield Bearer,Valkyrie,Shadow Huntress,Shadow Huntress,Brute,Meteor,Spell_Rage
+1,Rolling Rocks,Undead Horde,Undead Horde,Alchemist,Alchemist,Wisp Mother,Goblin Marksman,Goblin Marksman,Executioner,Executioner,Brute,Wisp Mother,Meteor,Spell_Rage
+1,Rolling Rocks,Undead Horde,Undead Horde,Alchemist,Alchemist,Wisp Mother,Valkyrie,Valkyrie,Executioner,Executioner,Brute,Wisp Mother,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Archers,Archers,Wisp Mother,Shield Bearer,Reaper,Reaper,Brute,Juggernaut,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Archers,Archers,Wisp Mother,Goblin Marksman,Reaper,Reaper,Brute,Juggernaut,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Archers,Archers,Goblin Marksman,Goblin Marksman,Valkyrie,Valkyrie,Juggernaut,Juggernaut,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Water Elemental,Water Elemental,Archers,Archers,Wisp Mother,Shield Bearer,Valkyrie,Valkyrie,Brute,Juggernaut,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Water Elemental,Water Elemental,Archers,Archers,Shield Bearer,Shield Bearer,Goblin Marksman,Goblin Marksman,Charger,Juggernaut,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Shield Bearer,Shield Bearer,Valkyrie,Valkyrie,Goblin Marksman,Goblin Marksman,Charger,Stone Elemental,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Shield Bearer,Shield Bearer,Valkyrie,Valkyrie,Goblin Marksman,Goblin Marksman,Charger,Stone Elemental,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Water Elemental,Water Elemental,Shield Bearer,Shield Bearer,Goblin Marksman,Goblin Marksman,Reaper,Reaper,Treant,Stone Elemental,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Water Elemental,Water Elemental,Shield Bearer,Shield Bearer,Goblin Marksman,Goblin Marksman,Reaper,Reaper,Treant,Stone Elemental,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Water Elemental,Fire Imp,Archers,Archers,Valkyrie,Valkyrie,Reaper,Reaper,Primal Spirit,Stone Elemental,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Water Elemental,Fire Imp,Archers,Archers,Valkyrie,Valkyrie,Reaper,Reaper,Primal Spirit,Stone Elemental,Meteor,Spell_Rage
+1,Rolling Rocks,Fire Imp,Water Elemental,Wisp Mother,Archers,Archers,Goblin Marksman,Goblin Marksman,Executioner,Executioner,Brute,Wisp Mother,Meteor,Spell_Rage
+1,Rolling Rocks,Undead Horde,Undead Horde,Alchemist,Alchemist,Goblin Marksman,Goblin Marksman,Executioner,Executioner,Brute,Wisp Mother,Wisp Mother,Meteor,Spell_Rage
+1,Undead Horde,Undead Horde,Water Elemental,Water Elemental,Archers,Archers,Shield Bearer,Shield Bearer,Brute,Brute,Charger,Charger,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Water Elemental,Water Elemental,Archers,Archers,Shield Bearer,Shield Bearer,Reaper,Reaper,Treant,Treant,Meteor,Spell_Rage
+1,Alchemist,Alchemist,Undead Horde,Undead Horde,Archers,Archers,Shield Bearer,Shield Bearer,Goblin Marksman,Brute,Primal Spirit,Primal Spirit,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Archers,Archers,Goblin Marksman,Goblin Marksman,Brute,Brute,Charger,Charger,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Archers,Archers,Goblin Marksman,Goblin Marksman,Reaper,Reaper,Treant,Treant,Meteor,Spell_Rage
+1,Alchemist,Alchemist,Undead Horde,Undead Horde,Archers,Archers,Valkyrie,Valkyrie,Brute,Brute,Primal Spirit,Primal Spirit,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Archers,Archers,Reaper,Goblin Marksman,Goblin Marksman,Treant,Treant,Juggernaut,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Archers,Archers,Reaper,Goblin Marksman,Goblin Marksman,Treant,Treant,Juggernaut,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Water Elemental,Water Elemental,Alchemist,Alchemist,Shield Bearer,Executioner,Charger,Charger,Juggernaut,Juggernaut,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Water Elemental,Water Elemental,Alchemist,Alchemist,Shield Bearer,Shield Bearer,Charger,Charger,Juggernaut,Juggernaut,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Swordsman,Swordsman,Archers,Archers,Reaper,Goblin Marksman,Goblin Marksman,Primal Spirit,Primal Spirit,Juggernaut,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Swordsman,Swordsman,Archers,Archers,Reaper,Goblin Marksman,Goblin Marksman,Primal Spirit,Primal Spirit,Juggernaut,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Archers,Archers,Reaper,Executioner,Executioner,Shadow Huntress,Shadow Huntress,Stone Elemental,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Archers,Archers,Reaper,Executioner,Executioner,Shadow Huntress,Shadow Huntress,Stone Elemental,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Fire Imp,Alchemist,Goblin Marksman,Goblin Marksman,Shadow Huntress,Shadow Huntress,Undead Army,Stone Elemental,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Fire Imp,Alchemist,Goblin Marksman,Goblin Marksman,Shadow Huntress,Shadow Huntress,Undead Army,Stone Elemental,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Archers,Archers,Reaper,Executioner,Shadow Huntress,Shadow Huntress,Brute,Brute,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Archers,Archers,Reaper,Executioner,Shadow Huntress,Shadow Huntress,Brute,Brute,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Alchemist,Alchemist,Goblin Marksman,Goblin Marksman,Executioner,Shadow Huntress,Shadow Huntress,Undead Army,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Alchemist,Alchemist,Goblin Marksman,Goblin Marksman,Executioner,Shadow Huntress,Shadow Huntress,Undead Army,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Water Elemental,Water Elemental,Archers,Archers,Shield Bearer,Shield Bearer,Valkyrie,Shadow Huntress,Shadow Huntress,Brute,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Water Elemental,Water Elemental,Archers,Archers,Shield Bearer,Shield Bearer,Valkyrie,Shadow Huntress,Shadow Huntress,Brute,Meteor,Spell_Rage
+1,Rolling Rocks,Fire Imp,Water Elemental,Water Elemental,Archers,Wisp Mother,Goblin Marksman,Goblin Marksman,Executioner,Executioner,Brute,Wisp Mother,Meteor,Spell_Rage
+1,Rolling Rocks,Fire Imp,Water Elemental,Water Elemental,Archers,Wisp Mother,Goblin Marksman,Goblin Marksman,Executioner,Executioner,Brute,Wisp Mother,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Archers,Archers,Undead Horde,Undead Horde,Valkyrie,Valkyrie,Brute,Brute,Charger,Charger,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Archers,Archers,Undead Horde,Undead Horde,Valkyrie,Valkyrie,Brute,Brute,Charger,Charger,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Archers,Archers,Undead Horde,Undead Horde,Shield Bearer,Shield Bearer,Reaper,Reaper,Treant,Treant,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Archers,Archers,Undead Horde,Undead Horde,Shield Bearer,Shield Bearer,Reaper,Reaper,Treant,Treant,Meteor,Spell_Rage
+1,Undead Horde,Undead Horde,Water Elemental,Water Elemental,Archers,Archers,Valkyrie,Goblin Marksman,Commander,Commander,Charger,Charger,Meteor,Spell_Rage
+1,Undead Horde,Undead Horde,Water Elemental,Rolling Rocks,Archers,Archers,Valkyrie,Valkyrie,Commander,Brute,Charger,Charger,Meteor,Spell_Rage
+1,Undead Horde,Undead Horde,Water Elemental,Water Elemental,Archers,Archers,Valkyrie,Valkyrie,Commander,Commander,Treant,Treant,Meteor,Spell_Rage
+1,Undead Horde,Undead Horde,Water Elemental,Water Elemental,Archers,Archers,Valkyrie,Valkyrie,Commander,Brute,Treant,Treant,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Archers,Archers,Goblin Marksman,Goblin Marksman,Treant,Treant,Shadow Huntress,Shadow Huntress,Meteor,Spell_Rage
+1,Rolling Rocks,Swordsman,Undead Horde,Undead Horde,Archers,Archers,Goblin Marksman,Goblin Marksman,Treant,Treant,Shadow Huntress,Shadow Huntress,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Archers,Archers,Alchemist,Alchemist,Commander,Primal Spirit,Shadow Huntress,Shadow Huntress,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Archers,Archers,Alchemist,Alchemist,Commander,Primal Spirit,Shadow Huntress,Shadow Huntress,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Water Elemental,Water Elemental,Undead Horde,Undead Horde,Shield Bearer,Executioner,Charger,Charger,Shadow Huntress,Shadow Huntress,Meteor,Spell_Rage
+1,Rolling Rocks,Swordsman,Water Elemental,Water Elemental,Undead Horde,Undead Horde,Shield Bearer,Executioner,Charger,Charger,Shadow Huntress,Shadow Huntress,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Archers,Archers,Valkyrie,Valkyrie,Commander,Commander,Charger,Charger,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Archers,Archers,Valkyrie,Valkyrie,Reaper,Reaper,Charger,Charger,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Water Elemental,Water Elemental,Undead Horde,Undead Horde,Goblin Marksman,Goblin Marksman,Commander,Commander,Treant,Treant,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Water Elemental,Water Elemental,Undead Horde,Undead Horde,Goblin Marksman,Goblin Marksman,Commander,Brute,Treant,Treant,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Alchemist,Alchemist,Goblin Marksman,Goblin Marksman,Executioner,Shadow Huntress,Shadow Huntress,Undead Army,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Alchemist,Alchemist,Goblin Marksman,Goblin Marksman,Executioner,Shadow Huntress,Shadow Huntress,Undead Army,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Water Elemental,Water Elemental,Undead Horde,Undead Horde,Goblin Marksman,Goblin Marksman,Commander,Commander,Treant,Treant,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Archers,Archers,Reaper,Goblin Marksman,Treant,Shadow Huntress,Shadow Huntress,Juggernaut,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Archers,Archers,Reaper,Goblin Marksman,Treant,Shadow Huntress,Shadow Huntress,Juggernaut,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Archers,Archers,Viper,Viper,Executioner,Shadow Huntress,Shadow Huntress,Stone Elemental,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Archers,Archers,Viper,Viper,Executioner,Shadow Huntress,Shadow Huntress,Stone Elemental,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Fire Imp,Alchemist,Commander,Goblin Marksman,Shadow Huntress,Shadow Huntress,Undead Army,Stone Elemental,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Fire Imp,Alchemist,Commander,Goblin Marksman,Shadow Huntress,Shadow Huntress,Undead Army,Stone Elemental,Meteor,Spell_Rage
+1,Ravenous Scourge,Ravenous Scourge,Undead Horde,Undead Horde,Archers,Archers,Goblin Marksman,Goblin Marksman,Treant,Treant,Shadow Huntress,Shadow Huntress,Meteor,Spell_Rage
+1,Ravenous Scourge,Ravenous Scourge,Undead Horde,Undead Horde,Archers,Archers,Goblin Marksman,Goblin Marksman,Treant,Treant,Shadow Huntress,Shadow Huntress,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Water Elemental,Water Elemental,Viper,Viper,Shield Bearer,Executioner,Charger,Charger,Shadow Huntress,Shadow Huntress,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Water Elemental,Water Elemental,Viper,Viper,Shield Bearer,Executioner,Charger,Charger,Shadow Huntress,Shadow Huntress,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Archers,Archers,Wisp Mother,Goblin Marksman,Goblin Marksman,Treant,Treant,Juggernaut,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Archers,Archers,Wisp Mother,Goblin Marksman,Goblin Marksman,Treant,Treant,Juggernaut,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Water Elemental,Water Elemental,Fire Imp,Alchemist,Shield Bearer,Executioner,Charger,Charger,Juggernaut,Juggernaut,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Water Elemental,Water Elemental,Fire Imp,Alchemist,Shield Bearer,Executioner,Charger,Charger,Juggernaut,Juggernaut,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Swordsman,Swordsman,Archers,Archers,Shield Bearer,Valkyrie,Valkyrie,Primal Spirit,Primal Spirit,Juggernaut,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Swordsman,Swordsman,Archers,Archers,Shield Bearer,Valkyrie,Valkyrie,Primal Spirit,Primal Spirit,Juggernaut,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Archers,Archers,Viper,Viper,Executioner,Shadow Huntress,Shadow Huntress,Juggernaut,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Archers,Archers,Viper,Viper,Executioner,Shadow Huntress,Shadow Huntress,Juggernaut,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Alchemist,Alchemist,Goblin Marksman,Goblin Marksman,Shadow Huntress,Shadow Huntress,Undead Army,Juggernaut,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Alchemist,Alchemist,Goblin Marksman,Goblin Marksman,Shadow Huntress,Shadow Huntress,Undead Army,Juggernaut,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Archers,Archers,Reaper,Executioner,Executioner,Shadow Huntress,Shadow Huntress,Juggernaut,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Archers,Archers,Reaper,Executioner,Executioner,Shadow Huntress,Shadow Huntress,Juggernaut,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Ravenous Scourge,Ravenous Scourge,Fire Imp,Alchemist,Goblin Marksman,Goblin Marksman,Shadow Huntress,Shadow Huntress,Undead Army,Juggernaut,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Ravenous Scourge,Ravenous Scourge,Fire Imp,Alchemist,Goblin Marksman,Goblin Marksman,Shadow Huntress,Shadow Huntress,Undead Army,Juggernaut,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Archers,Archers,Reaper,Executioner,Executioner,Shadow Huntress,Shadow Huntress,Juggernaut,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Archers,Archers,Reaper,Executioner,Executioner,Shadow Huntress,Shadow Huntress,Juggernaut,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Alchemist,Alchemist,Goblin Marksman,Goblin Marksman,Executioner,Shadow Huntress,Shadow Huntress,Undead Army,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Alchemist,Alchemist,Goblin Marksman,Goblin Marksman,Executioner,Shadow Huntress,Shadow Huntress,Undead Army,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Fire Imp,Wisp Mother,Goblin Marksman,Goblin Marksman,Executioner,Brute,Brute,Juggernaut,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Undead Horde,Undead Horde,Fire Imp,Wisp Mother,Goblin Marksman,Goblin Marksman,Executioner,Brute,Brute,Juggernaut,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Swordsman,Undead Horde,Undead Horde,Archers,Charger,Charger,Ravenous Scourge,Alchemist,Alchemist,Commander,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Swordsman,Undead Horde,Undead Horde,Archers,Charger,Charger,Ravenous Scourge,Alchemist,Alchemist,Commander,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Swordsman,Undead Horde,Undead Horde,Archers,Charger,Charger,Ravenous Scourge,Alchemist,Alchemist,Commander,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Swordsman,Undead Horde,Undead Horde,Archers,Charger,Charger,Ravenous Scourge,Alchemist,Alchemist,Commander,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Archers,Archers,Valkyrie,Valkyrie,Commander,Commander,Charger,Charger,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Undead Horde,Undead Horde,Archers,Archers,Valkyrie,Valkyrie,Commander,Commander,Charger,Charger,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Archers,Archers,Undead Horde,Undead Horde,Valkyrie,Valkyrie,Brute,Brute,Charger,Charger,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Archers,Archers,Undead Horde,Undead Horde,Valkyrie,Valkyrie,Brute,Brute,Charger,Charger,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Archers,Archers,Undead Horde,Undead Horde,Shield Bearer,Shield Bearer,Reaper,Reaper,Treant,Treant,Meteor,Spell_Rage
+1,Rolling Rocks,Rolling Rocks,Archers,Archers,Undead Horde,Undead Horde,Shield Bearer,Shield Bearer,Reaper,Reaper,Treant,Treant,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Water Elemental,Water Elemental,Undead Horde,Undead Horde,Goblin Marksman,Goblin Marksman,Commander,Commander,Treant,Treant,Meteor,Spell_Rage
+1,Swordsman,Swordsman,Water Elemental,Water Elemental,Undead Horde,Undead Horde,Goblin Marksman,Goblin Marksman,Commander,Commander,Treant,Treant,Meteor,Spell_Rage
+1,Alchemist,Alchemist,Undead Horde,Undead Horde,Archers,Archers,Executioner,Executioner,Goblin Marksman,Brute,Primal Spirit,Primal Spirit,Meteor,Spell_Rage
+1,Alchemist,Alchemist,Undead Horde,Undead Horde,Archers,Archers,Executioner,Executioner,Goblin Marksman,Brute,Primal Spirit,Primal Spirit,Meteor,Spell_Rage
+1,Alchemist,Alchemist,Undead Horde,Undead Horde,Archers,Archers,Shield Bearer,Shield Bearer,Goblin Marksman,Brute,Primal Spirit,Primal Spirit,Meteor,Spell_Rage
